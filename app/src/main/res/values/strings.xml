@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewExercise</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis eros in orci aliquam facilisis. Suspendisse potenti. Pellentesque consectetur justo venenatis erat efficitur pharetra. Nullam nec facilisis massa, id placerat purus. Nullam vel mi et dolor placerat laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus eleifend ornare velit non convallis.</string>
+    <string name="back">Back</string>
+    <string name="phoneName">Phone name here</string>
+    <string name="sample">Sample text</string>
+</resources>
